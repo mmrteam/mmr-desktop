@@ -1,4 +1,4 @@
-<p align="center"><a href="https://moshirewritten.com"><img src="https://i.imgur.com/FKI7Og6.png"></a></p>
+<p align="center"><a href="https://moshirewritten.com"><img src="https://i.imgur.com/FKI7Og6.png" width="50%" height="50%"></a></p>
 
 ## Introduction
 
@@ -8,7 +8,7 @@ It allows you to continue playing Moshi Monsters Rewritten while browsers have s
 
 ## How to download?
 
-1. Go to the [releases](https://github.com/teampanfu/mmr-desktop/releases/latest) page.
+1. Go to the [releases](https://github.com/mmrteam/mmr-desktop/releases/tag/v1.0.0) page.
 2. Download and run the appropriate file for your operating system.
 3. That's it!
 
